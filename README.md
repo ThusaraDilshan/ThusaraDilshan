@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="736" height="414" alt="Serenity at Dusk" src="https://github.com/user-attachments/assets/56ec8ca0-558e-4c1c-9c70-6bad3780e227" />
-" alt="Profile Header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Animated Waving Header Banner" />
 </p>
 <h1 align="center">Welcome to Thusara's GitHub 👋</h1>
 

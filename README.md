@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Serenity at Dusk.jpg" alt="Profile Header" width="100%">
+</p>
 <h1 align="center">Welcome to Thusara's GitHub 👋</h1>
 
 <p align="center">

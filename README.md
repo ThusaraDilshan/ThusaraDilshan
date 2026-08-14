@@ -17,19 +17,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+### || About Me ||
 
-Hello, I'm **Thusara Dilshan** — an aspiring Software Engineer & Full-Stack Developer focused on building modern, efficient, and scalable web and mobile applications.
+Hello, I'm **Thusara Dilshan**  an aspiring Software Engineer & Full-Stack Developer focused on building modern, efficient, and scalable web and mobile applications.
 
-- 🎓 Undergraduate Student in **Software Engineering**
-- 🛠️ Passionate about **Web Development & Mobile Application Development**
-- 🎯 Strong focus on clean architecture, UI/UX design, and efficient database management
+-  Undergraduate Student in **Software Engineering**
+-  Passionate about **Web Development & Mobile Application Development**
+-  Strong focus on clean architecture, UI/UX design, and efficient database management
 
 ---
 
-### 💻 Technologies & Tools
+### || Technologies & Tools ||
 
-#### 🚀 Core Technologies
+#### || Core Technologies ||
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,7 +45,7 @@ Hello, I'm **Thusara Dilshan** — an aspiring Software Engineer & Full-Stack De
 
 ---
 
-### 📊 GitHub Statistics
+### || GitHub Statistics ||
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark" alt="Top Languages" />

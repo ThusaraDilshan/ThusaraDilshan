@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Animated Waving Header Banner" />
 </p>
-<h1 align="center">Welcome to Thusara's GitHub 👋</h1>
+<h1 align="center">Welcome to Thusara's GitHub</h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Header GIF/Quote" />

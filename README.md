@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=120&text=Always%20Learning%20%26%20Growing&fontSize=30&fontColor=white&animation=fadeIn" alt="Wave Animation 2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=120&text=Always%20Learning%20%26%20Growing&fontSize=30&fontColor=white&animation=fadeIn"/>
 </p>
 
 ---
@@ -72,7 +72,6 @@ Hello, I'm **Thusara Dilshan** — an aspiring Software Engineer & Full-Stack De
 
 ---
 
-<h3 align="center">🌊 Wave Section 🌊</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=25&fontColor=white&animation=twinkling" alt="Footer Wave" />
 </p>

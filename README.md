@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180§ion=header&text=Thusara%20Dilshan&fontSize=42&fontColor=fff&animation=fadeIn" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FF0¢er=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Developer;Java+%7C+PHP+%7C+Flutter;Colombo%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A78BFA¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thusara+Dilshan+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+with+Java%2C+PHP+%26+Flutter;Software+Engineering+Undergraduate)
 
 ---
 

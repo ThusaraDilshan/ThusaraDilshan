@@ -46,34 +46,27 @@
 
 ### 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/ThusaraDilshan/Greenlife-Wellness-Center-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Greenlife-Wellness-Center-Web&theme=dark" />
-  </a>
-  <a href="https://github.com/ThusaraDilshan/GadgetHub_Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=GadgetHub_Web&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://github.com/ThusaraDilshan/Pet-Supply-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Pet-Supply-Management-System&theme=dark" />
-  </a>
-  <a href="https://github.com/ThusaraDilshan/Orchid-Flora-Temperature-Analyzing-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Orchid-Flora-Temperature-Analyzing-System&theme=dark" />
-  </a>
-</p>
+| Repository | Description | Language |
+|---|---|---|
+| [Greenlife-Wellness-Center-Web](https://github.com/ThusaraDilshan/Greenlife-Wellness-Center-Web) | Wellness center web application | PHP |
+| [GadgetHub_Web](https://github.com/ThusaraDilshan/GadgetHub_Web) | E-commerce gadget store web app | C# |
+| [Pet-Supply-Management-System](https://github.com/ThusaraDilshan/Pet-Supply-Management-System) | Pet supply inventory & management system | Java |
+| [Orchid-Flora-Temperature-Analyzing-System](https://github.com/ThusaraDilshan/Orchid-Flora-Temperature-Analyzing-System) | Temperature analysis system for orchid cultivation | C++ |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="40%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 </p>
+
+> **Note:** If the stats cards above show as broken images, GitHub's image proxy (camo) is likely caching a failed load from the vercel.app service. Just refresh the page after a minute, or re-commit the README — it usually resolves itself.
 
 ---
 

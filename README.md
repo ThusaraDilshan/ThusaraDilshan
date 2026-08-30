@@ -58,15 +58,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" width="40%" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 </p>
 
-> **Note:** If the stats cards above show as broken images, GitHub's image proxy (camo) is likely caching a failed load from the vercel.app service. Just refresh the page after a minute, or re-commit the README — it usually resolves itself.
+> **Note:** These cards are served by a free community-hosted demo server (not GitHub itself), so it can occasionally rate-limit or go down. If a card breaks, it usually recovers within a few minutes — no action needed on your end.
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thusara%20Dilshan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thusara%20Dilshan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20and%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ThusaraDilshan">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Mobile+App+Developer;Java+%7C+PHP+%7C+Flutter;Always+Learning,+Always+Building;&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" />

@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Thusara Dilshan" width="100%" />
-</p>
-
-<h1 align="center">Welcome to Thusara's GitHub</h1>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Header GIF/Quote" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180§ion=header&text=Thusara%20Dilshan&fontSize=42&fontColor=fff&animation=fadeIn" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9FF0¢er=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Developer;Java+%7C+PHP+%7C+Flutter;Colombo%2C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" />
+</div>
 
 ---
 

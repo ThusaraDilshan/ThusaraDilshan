@@ -3,7 +3,7 @@
 </div>
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhEqKSFl/giphy.gif" width="400" alt="Tech Ecosystem GIF" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhEqKSFl/giphy.gif" width="400"/>
 </p>
 
 ---

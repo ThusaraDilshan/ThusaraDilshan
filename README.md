@@ -1,83 +1,91 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thusara+Dilshan+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+with+Java%2C+PHP+%26+Flutter;Software+Engineering+Undergraduate" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thusara%20Dilshan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/ThusaraDilshan">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Mobile+App+Developer;Java+%7C+PHP+%7C+Flutter;Always+Learning,+Always+Building;&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 </div>
----
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhEqKSFl/giphy.gif" width="400"/>
-</p>
 
 ---
 
-<p align="center">
-  <!-- If you have an animated GIF, place it in assets/ and reference here -->
-  <img src="assets/wave.gif" width="600"/>
-</p>
+### 🧑‍💻 About Me
+
+- 🎓 Undergraduate in **Software Engineering**
+- 💡 Passionate about **Web Development** & **Mobile App Development**
+- 🛠️ Focused on clean architecture, UI/UX and scalable systems
+- 📍 Based in **Colombo, Sri Lanka**
+- 🎯 Currently focusing on leveling up full-stack + Flutter skills
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=120&text=Always%20Learning%20%26%20Growing&fontSize=30&fontColor=white&animation=fadeIn"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">🔗 Connect with me</h3>
+### 📌 Pinned Projects
+
 <p align="center">
-  <a href="https://wa.me/+94775815484" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/ThusaraDilshan/Greenlife-Wellness-Center-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Greenlife-Wellness-Center-Web&theme=dark" />
+  </a>
+  <a href="https://github.com/ThusaraDilshan/GadgetHub_Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=GadgetHub_Web&theme=dark" />
+  </a>
+  <br/>
+  <a href="https://github.com/ThusaraDilshan/Pet-Supply-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Pet-Supply-Management-System&theme=dark" />
+  </a>
+  <a href="https://github.com/ThusaraDilshan/Orchid-Flora-Temperature-Analyzing-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThusaraDilshan&repo=Orchid-Flora-Temperature-Analyzing-System&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark&hide_border=true" width="60%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://wa.me/+94775815484"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:dilshanthushara622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</div>
 
-### || About Me ||
-
-Hello, I'm **Thusara Dilshan** — an aspiring Software Engineer & Full-Stack Developer focused on building modern, efficient, and scalable web and mobile applications.
-
-- Undergraduate Student in **Software Engineering**
-- Passionate about **Web Development & Mobile Application Development**
-- Strong focus on clean architecture, UI/UX design, and efficient database management
-
----
-
-### || Technologies & Tools ||
-
-#### Core Technologies 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### || GitHub Statistics ||
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThusaraDilshan&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThusaraDilshan&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark" alt="Contribution Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=25&fontColor=white&animation=twinkling" alt="Footer Wave" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

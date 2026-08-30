@@ -1,5 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A78BFA¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thusara+Dilshan+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+with+Java%2C+PHP+%26+Flutter;Software+Engineering+Undergraduate)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thusara+Dilshan+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+with+Java%2C+PHP+%26+Flutter;Software+Engineering+Undergraduate" alt="Typing SVG" />
+</div>
 ---
 
 <h3 align="center">💻 Tech Ecosystem 💻</h3>

@@ -2,18 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thusara+Dilshan+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+with+Java%2C+PHP+%26+Flutter;Software+Engineering+Undergraduate" alt="Typing SVG" />
 </div>
 ---
-
-<h3 align="center">💻 Tech Ecosystem 💻</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhEqKSFl/giphy.gif" width="400" alt="Tech Ecosystem GIF" />
 </p>
 
 ---
 
-<h3 align="center">🌊 Animated Wave Section 🌊</h3>
 <p align="center">
   <!-- If you have an animated GIF, place it in assets/ and reference here -->
-  <img src="assets/wave.gif" width="600" alt="Animated Wave" />
+  <img src="assets/wave.gif" width="600"/>
 </p>
 
 <p align="center">

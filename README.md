@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Header Waving" />
 </p>
 
 <h1 align="center">Welcome to Thusara's GitHub</h1>
@@ -18,6 +18,10 @@
 ---
 
 <h3 align="center">🌊 Animated Wave Section 🌊</h3>
+<p align="center">
+  <img src="mata oya ss.gif" width="600" alt="Animated Wave" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling" alt="Wave Animation 1" />
 </p>

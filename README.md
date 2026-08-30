@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Header Waving" />
+  <img src="assets/header.svg" alt="Thusara Dilshan" width="100%" />
 </p>
 
 <h1 align="center">Welcome to Thusara's GitHub</h1>
@@ -19,7 +19,8 @@
 
 <h3 align="center">🌊 Animated Wave Section 🌊</h3>
 <p align="center">
-  <img src="mata oya ss.gif" width="600" alt="Animated Wave" />
+  <!-- If you have an animated GIF, place it in assets/ and reference here -->
+  <img src="assets/wave.gif" width="600" alt="Animated Wave" />
 </p>
 
 <p align="center">
@@ -42,17 +43,17 @@
 
 ### || About Me ||
 
-Hello, I'm **Thusara Dilshan**  an aspiring Software Engineer & Full-Stack Developer focused on building modern, efficient, and scalable web and mobile applications.
+Hello, I'm **Thusara Dilshan** — an aspiring Software Engineer & Full-Stack Developer focused on building modern, efficient, and scalable web and mobile applications.
 
--  Undergraduate Student in **Software Engineering**
--  Passionate about **Web Development & Mobile Application Development**
--  Strong focus on clean architecture, UI/UX design, and efficient database management
+- Undergraduate Student in **Software Engineering**
+- Passionate about **Web Development & Mobile Application Development**
+- Strong focus on clean architecture, UI/UX design, and efficient database management
 
 ---
 
 ### || Technologies & Tools ||
 
-####  Core Technologies 
+#### Core Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,7 +61,7 @@ Hello, I'm **Thusara Dilshan**  an aspiring Software Engineer & Full-Stack Devel
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-####  Frameworks & Libraries
+#### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

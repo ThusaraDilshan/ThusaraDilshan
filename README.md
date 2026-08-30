@@ -10,6 +10,13 @@
 
 ---
 
+<h3 align="center">💻 Tech Ecosystem 💻</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhEqKSFl/giphy.gif" width="400" alt="Tech Ecosystem GIF" />
+</p>
+
+---
+
 <h3 align="center">🌊 Animated Wave Section 🌊</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling" alt="Wave Animation 1" />

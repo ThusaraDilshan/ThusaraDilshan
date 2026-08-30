@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling" alt="Wave Animation 1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling"/>
 </p>
 
 <p align="center">

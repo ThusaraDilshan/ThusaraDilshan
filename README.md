@@ -66,16 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThusaraDilshan&theme=dark&hide_border=true" width="60%" alt="Streak Stats"/>
 </p>
 
-> **These cards keep breaking because the free public demo server (`github-readme-stats.vercel.app`) is heavily rate-limited by thousands of GitHub profiles using it.** The permanent fix is to deploy your own private copy (takes ~2 minutes, completely free):
-> 1. Go to https://github.com/anuraghazra/github-readme-stats and click **Fork**.
-> 2. Go to https://vercel.com, sign in with GitHub, click **New Project**, and import your forked repo.
-> 3. Deploy it (default settings are fine). Vercel gives you a URL like `your-project.vercel.app`.
-> 4. Replace `github-readme-stats.vercel.app` in the image links above with your own `your-project.vercel.app`.
->
-> Once self-hosted, the cards will never be rate-limited again since only you are using that instance.
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">

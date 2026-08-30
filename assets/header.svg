@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1500" height="300" viewBox="0 0 1500 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Dancing+Script:wght@600;700&display=swap');
+    .bg { fill: #1f2223; }
+    .name { font-family: 'Pacifico', cursive; fill: #1fc3a0; font-size: 140px; letter-spacing: -2px; }
+    .subtitle { font-family: 'Dancing Script', cursive; fill: #7a7a7a; font-size: 48px; }
+    .tagline { font-family: 'Dancing Script', cursive; fill: #ffffff; font-size: 60px; text-anchor: end; }
+  </style>
+
+  <!-- background -->
+  <rect class="bg" x="0" y="0" width="1500" height="300" />
+
+  <!-- left: big name (slanted) -->
+  <g transform="translate(80,170) rotate(-10)">
+    <text class="name">Thusara Dilshan</text>
+  </g>
+
+  <!-- left-below: subtitle slanted -->
+  <g transform="translate(120,230) rotate(-18)">
+    <text class="subtitle">Software Engineer</text>
+  </g>
+
+  <!-- right: stacked tagline, aligned right -->
+  <g transform="translate(1430,50)">
+    <text class="tagline" y="60">Blog, Projects and</text>
+    <text class="tagline" y="140">Something About Me</text>
+  </g>
+</svg>

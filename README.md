@@ -1,10 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Animated Waving Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Thusara's%20World&fontSize=50&animation=fadeIn&fontAlignY=38&theme=dark" alt="Header" />
 </p>
+
 <h1 align="center">Welcome to Thusara's GitHub</h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Header GIF/Quote" />
+</p>
+
+---
+
+<h3 align="center">🌊 Animated Wave Section 🌊</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontColor=white&animation=twinkling" alt="Wave Animation 1" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,100:8338ec&height=120&text=Always%20Learning%20%26%20Growing&fontSize=30&fontColor=white&animation=fadeIn" alt="Wave Animation 2" />
 </p>
 
 ---
@@ -58,6 +70,13 @@ Hello, I'm **Thusara Dilshan**  an aspiring Software Engineer & Full-Stack Devel
 
 ---
 
+<h3 align="center">🌊 Wave Section 🌊</h3>
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=25&fontColor=white&animation=twinkling" alt="Footer Wave" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>

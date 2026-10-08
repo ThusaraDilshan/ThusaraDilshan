@@ -6,10 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Mobile+App+Developer;Java+%7C+PHP+%7C+Flutter;Always+Learning,+Always+Building;&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://wa.me/+94775815484"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:dilshanthushara622@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
